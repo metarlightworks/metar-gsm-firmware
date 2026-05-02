@@ -1,5 +1,1 @@
-{
-  "version": "1.0.0",
-  "url": "https://raw.githubusercontent.com/metarlightworks/metar-gsm-firmware/main/releases/METARLightworks_GSM.bin",
-  "size": 1140528
-}
+{ "version": "1.0.5", "url": "https://raw.githubusercontent.com/metarlightworks/metar-gsm-firmware/main/releases/METARLightworks_GSM.bin", "size": 1161008 }
